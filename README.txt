@@ -1,5 +1,5 @@
 ## FILE DESCRIPTION
-these are the files used and what their function:
+these are the files used and their function:
 
 * main.py logs in to imap server, continuously checks for new emails, it is the main file from which the program starts and terminates. 
   it calls sends_email.py;
