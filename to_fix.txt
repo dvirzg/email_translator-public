@@ -1,0 +1,8 @@
+## TO FIX:
+
+* non unicode characters crash the program, need to normalize characters.
+* if problem occurs, have an automatic troubleshooting email sent.
+* add spaces between links.
+* extend support for more email formats.
+* resructure the log in process, no need to log in and out 3 times every execution.
+* add __init__.py file.

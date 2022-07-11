@@ -53,5 +53,5 @@ send_mail(username, password, FROM, TO, msg)
 print("sending email...")
 print("success!\n")
 
-# only works on latin letters?
+# only works on unicode characters?
 # attachments?

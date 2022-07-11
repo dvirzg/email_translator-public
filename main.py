@@ -2,9 +2,9 @@ import imaplib
 import time
 
 # account credentials
-username = "dvirz.translator@outlook.com"
-password = "yellow+386=Door"
-imap_server = "imap-mail.outlook.com"
+username = "email@imap.com"
+password = "**************"
+imap_server = "xxx" # find imap server address: https://www.systoolsgroup.com/imap/
 
 # create an IMAP4 class with SSL 
 imap = imaplib.IMAP4_SSL(imap_server)

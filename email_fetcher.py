@@ -5,10 +5,10 @@ import os
 from supported_languages import lang_dict
 
 # account credentials
-username = "dvirz.translator@outlook.com"
-password = "yellow+386=Door"
+username = "email@imap.com"
+password = "**************"
 # email provider's IMAP server
-imap_server = "imap-mail.outlook.com"
+imap_server = "xxx" # find imap server address: https://www.systoolsgroup.com/imap/
 
 def clean(text):
     # clean text for creating a folder
